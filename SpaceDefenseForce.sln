@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceDefenseForce", "SpaceDefenseForce.csproj", "{8EA42119-7F64-1A72-F5DF-8E1D78B5B99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceDefenseForce.Editor", "SpaceDefenseForce.Editor.csproj", "{5C7E33EE-4ECB-D38A-AB11-F0E232ED872F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA42119-7F64-1A72-F5DF-8E1D78B5B99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA42119-7F64-1A72-F5DF-8E1D78B5B99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA42119-7F64-1A72-F5DF-8E1D78B5B99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA42119-7F64-1A72-F5DF-8E1D78B5B99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7E33EE-4ECB-D38A-AB11-F0E232ED872F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7E33EE-4ECB-D38A-AB11-F0E232ED872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7E33EE-4ECB-D38A-AB11-F0E232ED872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7E33EE-4ECB-D38A-AB11-F0E232ED872F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
